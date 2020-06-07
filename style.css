@@ -1,0 +1,12 @@
+h1{color: blue;}
+.but{
+    display:block;
+    width:150px;
+    line-height:50px;
+    text-align:center;
+    vertical-align:middle;
+    background:url(images/bouton-noir.png) no-repeat;
+    color:blue;
+    text-decoration:none;
+    }
+.test {width: 50000px;}
